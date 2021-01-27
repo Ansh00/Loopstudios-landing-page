@@ -1,0 +1,66 @@
+* { 
+    margin:0; 
+    padding:0; 
+    box-sizing:border-box; 
+    font-family:'Alata';
+}
+
+.header
+{
+    height: 650px;
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: linear-gradient(to right, rgba(8, 8, 8, 0.7), rgba(87, 6, 76, 0.5)),url(./images/desktop/image-hero.jpg);
+}
+
+.title
+{
+    font-family:'Alata';
+    font-size:50px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 170px;
+    color: white;
+}
+
+.opt-mob
+{
+    color: white;
+    display: none;
+}
+.text
+{
+    padding: 30px;
+    position: absolute;
+    font-family:'Josefin Sans';
+    width: 550px;
+    color: white;
+    font-size: 60px;
+    border: solid white;
+    margin-left: 170px;
+    margin-top: 300px;
+}
+
+.navbar
+{
+    color: white;
+    display: inline;
+    float: right;
+    margin-right: 120px;
+    margin-top: 100px;
+}
+
+.navbar a
+{
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+   
+}
+
+.navbar a:active
+{
+    text-decoration: underline;
+}
