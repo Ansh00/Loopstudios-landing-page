@@ -2,4 +2,4 @@
  
 # Frontend Mentor - Loopstudios landing page
 
-[View](https://loopstudios-landing-page1.netlify.app/)
+![View](https://loopstudios-landing-page1.netlify.app/)
